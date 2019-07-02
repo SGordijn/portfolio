@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio Website Stephan Gordijn
 This is my portfolio website. Feel free to go through all the files.
 
 All copyright for the images used belong to their respective owners:
